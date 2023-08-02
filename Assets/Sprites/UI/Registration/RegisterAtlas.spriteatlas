@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RegisterAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8ec68c384dc3e11408cbae16e9a8e313, type: 3}
+    - {fileID: 2800000, guid: 95c499d7ed739b44681e9ab3b49ca43a, type: 3}
+    - {fileID: 2800000, guid: ef87f2422a3d0bf42afd3f7019297009, type: 3}
+    - {fileID: 2800000, guid: 3fe4668ba4ef9b747b6dbc17ddc2beb3, type: 3}
+    - {fileID: 2800000, guid: 28f13285b0d7f4f4eb2f7d725b8bea2d, type: 3}
+    - {fileID: 2800000, guid: 4ba26e61496786c4b8651a63c9b88b77, type: 3}
+    - {fileID: 2800000, guid: 3327285dd1fa00841b3669fe0f81bae6, type: 3}
+    - {fileID: 2800000, guid: 259a4993f52641440b8b4760c2eadcf3, type: 3}
+    - {fileID: 2800000, guid: 8d9497d8464b2744087d16da3fc0dd16, type: 3}
+    - {fileID: 2800000, guid: 8b07e9b329adeb14e8e342fcc3ed034b, type: 3}
+    - {fileID: 2800000, guid: 1dd9ce8f5c08186419061698d36a8b20, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4ba26e61496786c4b8651a63c9b88b77, type: 3}
+  - {fileID: 21300000, guid: ef87f2422a3d0bf42afd3f7019297009, type: 3}
+  - {fileID: 21300000, guid: 259a4993f52641440b8b4760c2eadcf3, type: 3}
+  - {fileID: 21300000, guid: 8b07e9b329adeb14e8e342fcc3ed034b, type: 3}
+  - {fileID: 21300000, guid: 28f13285b0d7f4f4eb2f7d725b8bea2d, type: 3}
+  - {fileID: 21300000, guid: 95c499d7ed739b44681e9ab3b49ca43a, type: 3}
+  - {fileID: 21300000, guid: 8ec68c384dc3e11408cbae16e9a8e313, type: 3}
+  - {fileID: 21300000, guid: 8d9497d8464b2744087d16da3fc0dd16, type: 3}
+  - {fileID: 21300000, guid: 3fe4668ba4ef9b747b6dbc17ddc2beb3, type: 3}
+  - {fileID: 21300000, guid: 3327285dd1fa00841b3669fe0f81bae6, type: 3}
+  - {fileID: 21300000, guid: 1dd9ce8f5c08186419061698d36a8b20, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_twitter
+  - button_create
+  - header_registration
+  - table_1
+  - button_google
+  - button_close
+  - button__facebook
+  - table
+  - button_empty_3
+  - button_vk
+  - table_2
+  m_RenderDataMap: {}
+  m_Tag: RegisterAtlas
+  m_IsVariant: 0
